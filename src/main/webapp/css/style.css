@@ -1,0 +1,41 @@
+header {
+    background: none repeat scroll 0 0 #A6C9E2;
+    color: #2E6E9E;
+    font-size: 20px;
+    padding: 5px 20px;
+}
+
+footer {
+    background: none repeat scroll 0 0 #A6C9E2;
+    color: #2E6E9E;
+    font-size: 20px;
+    padding: 5px 20px;
+    margin: 20px 0;
+}
+
+#add {
+    margin: 5px 140px;
+}
+
+.normal {
+    color: green;
+}
+
+.excess {
+    color: red;
+}
+
+dt {
+    display: inline-block;
+    width: 170px;
+}
+
+dd {
+    display: inline-block;
+    margin-left: 8px;
+    vertical-align: top;
+}
+
+h3 {
+    margin: 15px 0 5px 0;
+}
